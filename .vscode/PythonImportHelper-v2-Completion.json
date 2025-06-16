@@ -1,0 +1,1778 @@
+[
+    {
+        "label": "Cipher",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "algorithms",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "modes",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "Cipher",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "algorithms",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "modes",
+        "importPath": "cryptography.hazmat.primitives.ciphers",
+        "description": "cryptography.hazmat.primitives.ciphers",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "DES",
+        "importPath": "Crypto.Cipher",
+        "description": "Crypto.Cipher",
+        "isExtraImport": true,
+        "detail": "Crypto.Cipher",
+        "documentation": {}
+    },
+    {
+        "label": "pad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "unpad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "isprime",
+        "importPath": "sympy",
+        "description": "sympy",
+        "isExtraImport": true,
+        "detail": "sympy",
+        "documentation": {}
+    },
+    {
+        "label": "mod_inverse",
+        "importPath": "sympy",
+        "description": "sympy",
+        "isExtraImport": true,
+        "detail": "sympy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "ec",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "rsa",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "HKDF",
+        "importPath": "cryptography.hazmat.primitives.kdf.hkdf",
+        "description": "cryptography.hazmat.primitives.kdf.hkdf",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.kdf.hkdf",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "aes_encrypt",
+        "importPath": "api.ciphers.aes",
+        "description": "api.ciphers.aes",
+        "isExtraImport": true,
+        "detail": "api.ciphers.aes",
+        "documentation": {}
+    },
+    {
+        "label": "aes_decrypt",
+        "importPath": "api.ciphers.aes",
+        "description": "api.ciphers.aes",
+        "isExtraImport": true,
+        "detail": "api.ciphers.aes",
+        "documentation": {}
+    },
+    {
+        "label": "caesar_encrypt",
+        "importPath": "api.ciphers.caesarCipher",
+        "description": "api.ciphers.caesarCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.caesarCipher",
+        "documentation": {}
+    },
+    {
+        "label": "caesar_decrypt",
+        "importPath": "api.ciphers.caesarCipher",
+        "description": "api.ciphers.caesarCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.caesarCipher",
+        "documentation": {}
+    },
+    {
+        "label": "des_encrypt",
+        "importPath": "api.ciphers.des",
+        "description": "api.ciphers.des",
+        "isExtraImport": true,
+        "detail": "api.ciphers.des",
+        "documentation": {}
+    },
+    {
+        "label": "des_decrypt",
+        "importPath": "api.ciphers.des",
+        "description": "api.ciphers.des",
+        "isExtraImport": true,
+        "detail": "api.ciphers.des",
+        "documentation": {}
+    },
+    {
+        "label": "elgamal_encrypt",
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "elgamal_decrypt",
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "generate_keys",
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "ecc_encrypt",
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "ecc_decrypt",
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "derive_shared_key",
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ecc_keys",
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "isExtraImport": true,
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "hill_encrypt",
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "hill_decrypt",
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "myszkowski_encrypt",
+        "importPath": "api.ciphers.myszkowskiCipher",
+        "description": "api.ciphers.myszkowskiCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.myszkowskiCipher",
+        "documentation": {}
+    },
+    {
+        "label": "myszkowski_decrypt",
+        "importPath": "api.ciphers.myszkowskiCipher",
+        "description": "api.ciphers.myszkowskiCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.myszkowskiCipher",
+        "documentation": {}
+    },
+    {
+        "label": "otp_encrypt",
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "isExtraImport": true,
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "otp_decrypt",
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "isExtraImport": true,
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "password_crack_time",
+        "importPath": "api.ciphers.password",
+        "description": "api.ciphers.password",
+        "isExtraImport": true,
+        "detail": "api.ciphers.password",
+        "documentation": {}
+    },
+    {
+        "label": "playfair_encrypt",
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "isExtraImport": true,
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "playfair_decrypt",
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "isExtraImport": true,
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "rail_fence_encrypt",
+        "importPath": "api.ciphers.railFence",
+        "description": "api.ciphers.railFence",
+        "isExtraImport": true,
+        "detail": "api.ciphers.railFence",
+        "documentation": {}
+    },
+    {
+        "label": "rail_fence_decrypt",
+        "importPath": "api.ciphers.railFence",
+        "description": "api.ciphers.railFence",
+        "isExtraImport": true,
+        "detail": "api.ciphers.railFence",
+        "documentation": {}
+    },
+    {
+        "label": "rc4",
+        "importPath": "api.ciphers.rives",
+        "description": "api.ciphers.rives",
+        "isExtraImport": true,
+        "detail": "api.ciphers.rives",
+        "documentation": {}
+    },
+    {
+        "label": "route_encrypt",
+        "importPath": "api.ciphers.routeCipher",
+        "description": "api.ciphers.routeCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.routeCipher",
+        "documentation": {}
+    },
+    {
+        "label": "route_decrypt",
+        "importPath": "api.ciphers.routeCipher",
+        "description": "api.ciphers.routeCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.routeCipher",
+        "documentation": {}
+    },
+    {
+        "label": "rsa_encrypt",
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "isExtraImport": true,
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "rsa_decrypt",
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "isExtraImport": true,
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "generate_rsa_keys",
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "isExtraImport": true,
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "scytale_encrypt",
+        "importPath": "api.ciphers.scytaleCipher",
+        "description": "api.ciphers.scytaleCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.scytaleCipher",
+        "documentation": {}
+    },
+    {
+        "label": "scytale_decrypt",
+        "importPath": "api.ciphers.scytaleCipher",
+        "description": "api.ciphers.scytaleCipher",
+        "isExtraImport": true,
+        "detail": "api.ciphers.scytaleCipher",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "aes_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.aes",
+        "description": "api.ciphers.aes",
+        "peekOfCode": "def aes_encrypt(plaintext, key):\n    key = key.encode('utf-8')\n    key = key[:32].ljust(32, b'\\0')  # AES-256 requires 32-byte key\n    iv = os.urandom(16)\n    padder = padding.PKCS7(128).padder()\n    padded_text = padder.update(plaintext.encode()) + padder.finalize()\n    cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend())\n    encryptor = cipher.encryptor()\n    ciphertext = encryptor.update(padded_text) + encryptor.finalize()\n    return base64.b64encode(iv + ciphertext).decode()",
+        "detail": "api.ciphers.aes",
+        "documentation": {}
+    },
+    {
+        "label": "aes_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.aes",
+        "description": "api.ciphers.aes",
+        "peekOfCode": "def aes_decrypt(ciphertext, key):\n    key = key.encode('utf-8')\n    key = key[:32].ljust(32, b'\\0')\n    raw_data = base64.b64decode(ciphertext)\n    iv = raw_data[:16]\n    actual_cipher = raw_data[16:]\n    cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend())\n    decryptor = cipher.decryptor()\n    padded_plaintext = decryptor.update(actual_cipher) + decryptor.finalize()\n    unpadder = padding.PKCS7(128).unpadder()",
+        "detail": "api.ciphers.aes",
+        "documentation": {}
+    },
+    {
+        "label": "is_alpha",
+        "kind": 2,
+        "importPath": "api.ciphers.caesarCipher",
+        "description": "api.ciphers.caesarCipher",
+        "peekOfCode": "def is_alpha(s):\n    return bool(re.match(r'^[A-Za-z]+$', s))\ndef caesar_encrypt(text, freq):\n    text = text.strip()\n    upper_case = [chr(65 + index) for index in range(26)]\n    lower_case = [chr(97 + index) for index in range(26)]\n    ans = \"\"\n    shift = freq % 26\n    for ch in text:\n        code = ord(ch)",
+        "detail": "api.ciphers.caesarCipher",
+        "documentation": {}
+    },
+    {
+        "label": "caesar_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.caesarCipher",
+        "description": "api.ciphers.caesarCipher",
+        "peekOfCode": "def caesar_encrypt(text, freq):\n    text = text.strip()\n    upper_case = [chr(65 + index) for index in range(26)]\n    lower_case = [chr(97 + index) for index in range(26)]\n    ans = \"\"\n    shift = freq % 26\n    for ch in text:\n        code = ord(ch)\n        if not is_alpha(ch):\n            ans += ch",
+        "detail": "api.ciphers.caesarCipher",
+        "documentation": {}
+    },
+    {
+        "label": "caesar_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.caesarCipher",
+        "description": "api.ciphers.caesarCipher",
+        "peekOfCode": "def caesar_decrypt(text, freq):\n    text = text.strip()\n    upper_case = [chr(65 + index) for index in range(26)]\n    lower_case = [chr(97 + index) for index in range(26)]\n    ans = \"\"\n    shift = freq % 26\n    for ch in text:\n        code = ord(ch)\n        if not is_alpha(ch):\n            ans += ch",
+        "detail": "api.ciphers.caesarCipher",
+        "documentation": {}
+    },
+    {
+        "label": "des_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.des",
+        "description": "api.ciphers.des",
+        "peekOfCode": "def des_encrypt(plaintext, key):\n    key = key.encode('utf-8')[:8].ljust(8, b'\\0')  # DES key must be 8 bytes\n    cipher = DES.new(key, DES.MODE_ECB)\n    padded_text = pad(plaintext.encode(), DES.block_size)\n    encrypted = cipher.encrypt(padded_text)\n    return base64.b64encode(encrypted).decode()\ndef des_decrypt(ciphertext, key):\n    key = key.encode('utf-8')[:8].ljust(8, b'\\0')\n    cipher = DES.new(key, DES.MODE_ECB)\n    decrypted = cipher.decrypt(base64.b64decode(ciphertext))",
+        "detail": "api.ciphers.des",
+        "documentation": {}
+    },
+    {
+        "label": "des_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.des",
+        "description": "api.ciphers.des",
+        "peekOfCode": "def des_decrypt(ciphertext, key):\n    key = key.encode('utf-8')[:8].ljust(8, b'\\0')\n    cipher = DES.new(key, DES.MODE_ECB)\n    decrypted = cipher.decrypt(base64.b64decode(ciphertext))\n    return unpad(decrypted, DES.block_size).decode()",
+        "detail": "api.ciphers.des",
+        "documentation": {}
+    },
+    {
+        "label": "generate_keys",
+        "kind": 2,
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "peekOfCode": "def generate_keys(p=None):\n    if p is None:\n        while True:\n            p = random.randint(100, 200)\n            if isprime(p):\n                break\n    g = random.randint(2, p - 1)\n    x = random.randint(1, p - 2)\n    y = pow(g, x, p)\n    return (p, g, y), x",
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "elgamal_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "peekOfCode": "def elgamal_encrypt(plaintext, public_key):\n    p, g, y = public_key\n    encrypted_pairs = []\n    for char in plaintext:\n        m = ord(char)\n        k = random.randint(1, p - 2)\n        a = pow(g, k, p)\n        b = (pow(y, k, p) * m) % p\n        encrypted_pairs.append((a, b))\n    # Convert to string to send to frontend easily",
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "elgamal_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.elgamal",
+        "description": "api.ciphers.elgamal",
+        "peekOfCode": "def elgamal_decrypt(ciphertext, private_key, p):\n    values = list(map(int, ciphertext.split(',')))\n    if len(values) % 2 != 0:\n        raise ValueError(\"Invalid ciphertext input.\")\n    pairs = [(values[i], values[i + 1]) for i in range(0, len(values), 2)]\n    decrypted_text = \"\"\n    for a, b in pairs:\n        s = pow(a, private_key, p)\n        s_inv = mod_inverse(s, p)\n        m = (b * s_inv) % p",
+        "detail": "api.ciphers.elgamal",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ecc_keys",
+        "kind": 2,
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "peekOfCode": "def generate_ecc_keys():\n    private_key = ec.generate_private_key(ec.SECP256R1())\n    public_key = private_key.public_key()\n    private_pem = private_key.private_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PrivateFormat.PKCS8,\n        encryption_algorithm=serialization.NoEncryption()\n    )\n    public_pem = public_key.public_bytes(\n        encoding=serialization.Encoding.PEM,",
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "derive_shared_key",
+        "kind": 2,
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "peekOfCode": "def derive_shared_key(private_key_pem, peer_public_key_pem):\n    private_key = serialization.load_pem_private_key(private_key_pem.encode(), password=None)\n    peer_public_key = serialization.load_pem_public_key(peer_public_key_pem.encode())\n    shared_key = private_key.exchange(ec.ECDH(), peer_public_key)\n    derived_key = HKDF(\n        algorithm=hashes.SHA256(),\n        length=32,\n        salt=None,\n        info=b'ecc-encryption'\n    ).derive(shared_key)",
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "ecc_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "peekOfCode": "def ecc_encrypt(plaintext, aes_key):\n    iv = os.urandom(16)\n    padder = sympadding.PKCS7(128).padder()\n    padded_data = padder.update(plaintext.encode()) + padder.finalize()\n    cipher = Cipher(algorithms.AES(aes_key), modes.CBC(iv))\n    encryptor = cipher.encryptor()\n    encrypted = encryptor.update(padded_data) + encryptor.finalize()\n    return base64.b64encode(iv + encrypted).decode()\n# Decrypt using derived AES key\ndef ecc_decrypt(ciphertext_b64, aes_key):",
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "ecc_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.elliptic",
+        "description": "api.ciphers.elliptic",
+        "peekOfCode": "def ecc_decrypt(ciphertext_b64, aes_key):\n    try:\n        data = base64.b64decode(ciphertext_b64)\n        iv, encrypted = data[:16], data[16:]\n        cipher = Cipher(algorithms.AES(aes_key), modes.CBC(iv))\n        decryptor = cipher.decryptor()\n        padded_plaintext = decryptor.update(encrypted) + decryptor.finalize()\n        unpadder = sympadding.PKCS7(128).unpadder()\n        plaintext = unpadder.update(padded_plaintext) + unpadder.finalize()\n        return plaintext.decode()",
+        "detail": "api.ciphers.elliptic",
+        "documentation": {}
+    },
+    {
+        "label": "letter_to_num",
+        "kind": 2,
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "peekOfCode": "def letter_to_num(c): return ord(c) - ord('A')\ndef num_to_letter(n): return chr(n + ord('A'))\n# Mod inverse of determinant\ndef mod_inverse(a, m):\n    if a<0:\n        a *= -1\n    a = a % m\n    for x in range(1, m):\n        if (a * x) % m == 1:\n            return x",
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "num_to_letter",
+        "kind": 2,
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "peekOfCode": "def num_to_letter(n): return chr(n + ord('A'))\n# Mod inverse of determinant\ndef mod_inverse(a, m):\n    if a<0:\n        a *= -1\n    a = a % m\n    for x in range(1, m):\n        if (a * x) % m == 1:\n            return x\n    raise ValueError(f\"No modular inverse for determinant {a} under mod {m}\")",
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "mod_inverse",
+        "kind": 2,
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "peekOfCode": "def mod_inverse(a, m):\n    if a<0:\n        a *= -1\n    a = a % m\n    for x in range(1, m):\n        if (a * x) % m == 1:\n            return x\n    raise ValueError(f\"No modular inverse for determinant {a} under mod {m}\")\n# Encryption function\ndef hill_encrypt(plaintext, key_matrix):",
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "hill_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "peekOfCode": "def hill_encrypt(plaintext, key_matrix):\n    plaintext = plaintext.upper().replace(\" \", \"\")\n    s = key_matrix\n    key_matrix = [\n        [0, 0],\n        [0, 0]\n    ]\n    k = 0\n    for i in range(2):\n        for j in range(2):",
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "hill_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.hillCipher",
+        "description": "api.ciphers.hillCipher",
+        "peekOfCode": "def hill_decrypt(ciphertext, key_matrix):\n    s = key_matrix\n    key_matrix = [\n        [0, 0],\n        [0, 0]\n    ]\n    k = 0\n    for i in range(2):\n        for j in range(2):\n            key_matrix[i][j] = int(s[k])",
+        "detail": "api.ciphers.hillCipher",
+        "documentation": {}
+    },
+    {
+        "label": "myszkowski_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.myszkowskiCipher",
+        "description": "api.ciphers.myszkowskiCipher",
+        "peekOfCode": "def myszkowski_encrypt(plaintext, key):\n    from collections import defaultdict\n    # Step 1: Format\n    key = key.upper()\n    plaintext = plaintext.replace(\" \", \"\").upper()\n    # Step 2: Build key index\n    key_order = {}\n    sorted_key = sorted(set(key))\n    count = 1\n    for ch in sorted_key:",
+        "detail": "api.ciphers.myszkowskiCipher",
+        "documentation": {}
+    },
+    {
+        "label": "myszkowski_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.myszkowskiCipher",
+        "description": "api.ciphers.myszkowskiCipher",
+        "peekOfCode": "def myszkowski_decrypt(ciphertext, key):\n    from collections import defaultdict\n    key = key.upper()\n    ciphertext = ciphertext.replace(\" \", \"\").upper()\n    key_order = {}\n    sorted_key = sorted(set(key))\n    count = 1\n    for ch in sorted_key:\n        for idx, k in enumerate(key):\n            if k == ch and idx not in key_order:",
+        "detail": "api.ciphers.myszkowskiCipher",
+        "documentation": {}
+    },
+    {
+        "label": "letter_to_num",
+        "kind": 2,
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "peekOfCode": "def letter_to_num(c): return ord(c.upper()) - ord('A')\ndef num_to_letter(n): return chr((n % 26) + ord('A'))\n# Generate a random key of same length as plaintext\ndef generate_random_key(length):\n    return ''.join(random.choice(string.ascii_uppercase) for _ in range(length))\n# Encrypt\ndef otp_encrypt(plaintext, key):\n    plaintext = plaintext.upper().replace(\" \", \"\")\n    if len(key) != len(plaintext):\n        raise ValueError(\"Key must be the same length as plaintext.\")",
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "num_to_letter",
+        "kind": 2,
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "peekOfCode": "def num_to_letter(n): return chr((n % 26) + ord('A'))\n# Generate a random key of same length as plaintext\ndef generate_random_key(length):\n    return ''.join(random.choice(string.ascii_uppercase) for _ in range(length))\n# Encrypt\ndef otp_encrypt(plaintext, key):\n    plaintext = plaintext.upper().replace(\" \", \"\")\n    if len(key) != len(plaintext):\n        raise ValueError(\"Key must be the same length as plaintext.\")\n    cipher = ''",
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "generate_random_key",
+        "kind": 2,
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "peekOfCode": "def generate_random_key(length):\n    return ''.join(random.choice(string.ascii_uppercase) for _ in range(length))\n# Encrypt\ndef otp_encrypt(plaintext, key):\n    plaintext = plaintext.upper().replace(\" \", \"\")\n    if len(key) != len(plaintext):\n        raise ValueError(\"Key must be the same length as plaintext.\")\n    cipher = ''\n    for p, k in zip(plaintext, key):\n        cipher += num_to_letter((letter_to_num(p) + letter_to_num(k)) % 26)",
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "otp_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "peekOfCode": "def otp_encrypt(plaintext, key):\n    plaintext = plaintext.upper().replace(\" \", \"\")\n    if len(key) != len(plaintext):\n        raise ValueError(\"Key must be the same length as plaintext.\")\n    cipher = ''\n    for p, k in zip(plaintext, key):\n        cipher += num_to_letter((letter_to_num(p) + letter_to_num(k)) % 26)\n    return cipher\n# Decrypt\ndef otp_decrypt(ciphertext, key):",
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "otp_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.oneTimePad",
+        "description": "api.ciphers.oneTimePad",
+        "peekOfCode": "def otp_decrypt(ciphertext, key):\n    ciphertext = ciphertext.upper()\n    if len(key) != len(ciphertext):\n        raise ValueError(\"Key must be the same length as ciphertext.\")\n    plain = ''\n    for c, k in zip(ciphertext, key):\n        plain += num_to_letter((letter_to_num(c) - letter_to_num(k)) % 26)\n    return plain",
+        "detail": "api.ciphers.oneTimePad",
+        "documentation": {}
+    },
+    {
+        "label": "password_crack_time",
+        "kind": 2,
+        "importPath": "api.ciphers.password",
+        "description": "api.ciphers.password",
+        "peekOfCode": "def password_crack_time(password, guesses_per_second=1e10):\n    length = len(password)\n    pool = 0\n    if any(c.islower() for c in password):\n        pool += 26\n    if any(c.isupper() for c in password):\n        pool += 26\n    if any(c.isdigit() for c in password):\n        pool += 10\n    if any(c in string.punctuation for c in password):",
+        "detail": "api.ciphers.password",
+        "documentation": {}
+    },
+    {
+        "label": "generate_key_square",
+        "kind": 2,
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "peekOfCode": "def generate_key_square(key):\n    key = ''.join(dict.fromkeys(key.upper().replace('J', 'I')))  # Remove duplicates, replace J with I\n    alphabet = string.ascii_uppercase.replace('J', '')  # A-Z without J\n    key_square = []\n    for char in key:\n        if char not in key_square:\n            key_square.append(char)\n    for char in alphabet:\n        if char not in key_square:\n            key_square.append(char)",
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_text",
+        "kind": 2,
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "peekOfCode": "def prepare_text(text, pad_char='X'):\n    text = text.upper().replace('J', 'I')\n    prepared = ''\n    i = 0\n    while i < len(text):\n        a = text[i]\n        b = text[i + 1] if i + 1 < len(text) else pad_char\n        if a == b:\n            prepared += a + pad_char\n            i += 1",
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "find_position",
+        "kind": 2,
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "peekOfCode": "def find_position(matrix, char):\n    for row in range(5):\n        for col in range(5):\n            if matrix[row][col] == char:\n                return row, col\n    return None\ndef playfair_encrypt(plaintext, key):\n    matrix = generate_key_square(key)\n    text = prepare_text(plaintext)\n    ciphertext = ''",
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "playfair_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "peekOfCode": "def playfair_encrypt(plaintext, key):\n    matrix = generate_key_square(key)\n    text = prepare_text(plaintext)\n    ciphertext = ''\n    for i in range(0, len(text), 2):\n        a, b = text[i], text[i + 1]\n        row1, col1 = find_position(matrix, a)\n        row2, col2 = find_position(matrix, b)\n        if row1 == row2:  # Same row\n            ciphertext += matrix[row1][(col1 + 1) % 5]",
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "playfair_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.playfair",
+        "description": "api.ciphers.playfair",
+        "peekOfCode": "def playfair_decrypt(ciphertext, key):\n    matrix = generate_key_square(key)\n    plaintext = ''\n    for i in range(0, len(ciphertext), 2):\n        a, b = ciphertext[i], ciphertext[i + 1]\n        row1, col1 = find_position(matrix, a)\n        row2, col2 = find_position(matrix, b)\n        if row1 == row2:\n            plaintext += matrix[row1][(col1 - 1) % 5]\n            plaintext += matrix[row2][(col2 - 1) % 5]",
+        "detail": "api.ciphers.playfair",
+        "documentation": {}
+    },
+    {
+        "label": "rail_fence_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.railFence",
+        "description": "api.ciphers.railFence",
+        "peekOfCode": "def rail_fence_encrypt(plaintext, rails):\n    rails = int(rails)\n    if rails == 1:\n        return plaintext\n    fence = [['' for _ in range(len(plaintext))] for _ in range(rails)]\n    rail = 0\n    direction = 1\n    for i, char in enumerate(plaintext):\n        fence[rail][i] = char\n        rail += direction",
+        "detail": "api.ciphers.railFence",
+        "documentation": {}
+    },
+    {
+        "label": "rail_fence_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.railFence",
+        "description": "api.ciphers.railFence",
+        "peekOfCode": "def rail_fence_decrypt(ciphertext, rails):\n    rails = int(rails)\n    if rails == 1:\n        return ciphertext\n    mark = [['' for _ in range(len(ciphertext))] for _ in range(rails)]\n    rail = 0\n    direction = 1\n    for i in range(len(ciphertext)):\n        mark[rail][i] = '*'\n        rail += direction",
+        "detail": "api.ciphers.railFence",
+        "documentation": {}
+    },
+    {
+        "label": "rc4",
+        "kind": 2,
+        "importPath": "api.ciphers.rives",
+        "description": "api.ciphers.rives",
+        "peekOfCode": "def rc4(key, text):\n    S = list(range(256))\n    j = 0\n    out = bytearray()\n    # Ensure key is a string before converting with ord()\n    if isinstance(key, str):\n        key = [ord(c) for c in key]\n    elif isinstance(key, (bytes, bytearray)):\n        key = list(key)  # treat bytes directly\n    else:",
+        "detail": "api.ciphers.rives",
+        "documentation": {}
+    },
+    {
+        "label": "route_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.routeCipher",
+        "description": "api.ciphers.routeCipher",
+        "peekOfCode": "def route_encrypt(plaintext, key):\n    rows, cols = map(int, key.split(','))\n    matrix = [['' for _ in range(cols)] for _ in range(rows)]\n    padded_len = rows * cols\n    plaintext += '_' * (padded_len - len(plaintext))\n    index = 0\n    for r in range(rows):\n        for c in range(cols):\n            matrix[r][c] = plaintext[index]\n            index += 1",
+        "detail": "api.ciphers.routeCipher",
+        "documentation": {}
+    },
+    {
+        "label": "route_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.routeCipher",
+        "description": "api.ciphers.routeCipher",
+        "peekOfCode": "def route_decrypt(ciphertext, key):\n    rows, cols = map(int, key.split(','))\n    matrix = [['' for _ in range(cols)] for _ in range(rows)]\n    top, bottom, left, right = 0, rows-1, 0, cols-1\n    index = 0\n    while top <= bottom and left <= right:\n        for i in range(left, right + 1):\n            matrix[top][i] = ciphertext[index]\n            index += 1\n        top += 1",
+        "detail": "api.ciphers.routeCipher",
+        "documentation": {}
+    },
+    {
+        "label": "generate_rsa_keys",
+        "kind": 2,
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "peekOfCode": "def generate_rsa_keys():\n    private_key = rsa.generate_private_key(public_exponent=65537, key_size=2048)\n    public_key = private_key.public_key()\n    private_pem = private_key.private_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PrivateFormat.TraditionalOpenSSL,\n        encryption_algorithm=serialization.NoEncryption()\n    )\n    public_pem = public_key.public_bytes(\n        encoding=serialization.Encoding.PEM,",
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "rsa_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "peekOfCode": "def rsa_encrypt(plaintext, public_key_pem):\n    public_key = serialization.load_pem_public_key(public_key_pem.encode())\n    ciphertext = public_key.encrypt(\n        plaintext.encode(),\n        padding.OAEP(mgf=padding.MGF1(algorithm=hashes.SHA256()), algorithm=hashes.SHA256(), label=None)\n    )\n    return base64.b64encode(ciphertext).decode()\n# Decrypt message with private key\ndef rsa_decrypt(ciphertext_b64, private_key_pem):\n    private_key = serialization.load_pem_private_key(private_key_pem.encode(), password=None)",
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "rsa_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.rsa",
+        "description": "api.ciphers.rsa",
+        "peekOfCode": "def rsa_decrypt(ciphertext_b64, private_key_pem):\n    private_key = serialization.load_pem_private_key(private_key_pem.encode(), password=None)\n    ciphertext = base64.b64decode(ciphertext_b64)\n    plaintext = private_key.decrypt(\n        ciphertext,\n        padding.OAEP(mgf=padding.MGF1(algorithm=hashes.SHA256()), algorithm=hashes.SHA256(), label=None)\n    )\n    return plaintext.decode()",
+        "detail": "api.ciphers.rsa",
+        "documentation": {}
+    },
+    {
+        "label": "scytale_encrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.scytaleCipher",
+        "description": "api.ciphers.scytaleCipher",
+        "peekOfCode": "def scytale_encrypt(plaintext, diameter):\n    plaintext = plaintext.replace(\" \", \"\").upper()\n    rows = math.ceil(len(plaintext) / diameter)\n    padded_len = rows * diameter\n    plaintext += 'X' * (padded_len - len(plaintext))\n    cipher = ''\n    for i in range(diameter):\n        for j in range(rows):\n            cipher += plaintext[j * diameter + i]\n    return cipher",
+        "detail": "api.ciphers.scytaleCipher",
+        "documentation": {}
+    },
+    {
+        "label": "scytale_decrypt",
+        "kind": 2,
+        "importPath": "api.ciphers.scytaleCipher",
+        "description": "api.ciphers.scytaleCipher",
+        "peekOfCode": "def scytale_decrypt(ciphertext, diameter):\n    ciphertext = ciphertext.replace(\" \", \"\").upper()\n    rows = math.ceil(len(ciphertext) / diameter)\n    matrix = [['' for _ in range(diameter)] for _ in range(rows)]\n    index = 0\n    for i in range(diameter):\n        for j in range(rows):\n            if index < len(ciphertext):\n                matrix[j][i] = ciphertext[index]\n                index += 1",
+        "detail": "api.ciphers.scytaleCipher",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_aes",
+        "kind": 2,
+        "importPath": "api.views.aes_view",
+        "description": "api.views.aes_view",
+        "peekOfCode": "def encrypt_aes(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = aes_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_aes(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.aes_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_aes",
+        "kind": 2,
+        "importPath": "api.views.aes_view",
+        "description": "api.views.aes_view",
+        "peekOfCode": "def decrypt_aes(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = aes_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.aes_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_caesar",
+        "kind": 2,
+        "importPath": "api.views.caesar_view",
+        "description": "api.views.caesar_view",
+        "peekOfCode": "def encrypt_caesar(request):\n    data = request.data\n    text = data.get('text', '')\n    key = int(data.get('key', 0))\n    result = caesar_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_caesar(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.caesar_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_caesar",
+        "kind": 2,
+        "importPath": "api.views.caesar_view",
+        "description": "api.views.caesar_view",
+        "peekOfCode": "def decrypt_caesar(request):\n    data = request.data\n    text = data.get('text', '')\n    key = int(data.get('key', 0))\n    result = caesar_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.caesar_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_des",
+        "kind": 2,
+        "importPath": "api.views.des_view",
+        "description": "api.views.des_view",
+        "peekOfCode": "def encrypt_des(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = des_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_des(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.des_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_des",
+        "kind": 2,
+        "importPath": "api.views.des_view",
+        "description": "api.views.des_view",
+        "peekOfCode": "def decrypt_des(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = des_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.des_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_elgamal",
+        "kind": 2,
+        "importPath": "api.views.elgamal_view",
+        "description": "api.views.elgamal_view",
+        "peekOfCode": "def encrypt_elgamal(request):\n    data = request.data\n    text = data.get('text', '')\n    # text = \"Bhanu shankar\"\n    result = elgamal_encrypt(text, public_key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_elgamal(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.elgamal_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_elgamal",
+        "kind": 2,
+        "importPath": "api.views.elgamal_view",
+        "description": "api.views.elgamal_view",
+        "peekOfCode": "def decrypt_elgamal(request):\n    data = request.data\n    text = data.get('text', '')\n    result = elgamal_decrypt(text, private_key, public_key[0])\n    return Response({\"result\": result})",
+        "detail": "api.views.elgamal_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_ecc",
+        "kind": 2,
+        "importPath": "api.views.elliptic_view",
+        "description": "api.views.elliptic_view",
+        "peekOfCode": "def encrypt_ecc(request):\n    data = request.data\n    text = data.get('text', '')\n    result = ecc_encrypt(text, key1)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_ecc(request):\n    data = request.data\n    text = data.get('text', '')\n    result = ecc_decrypt(text, key2)",
+        "detail": "api.views.elliptic_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_ecc",
+        "kind": 2,
+        "importPath": "api.views.elliptic_view",
+        "description": "api.views.elliptic_view",
+        "peekOfCode": "def decrypt_ecc(request):\n    data = request.data\n    text = data.get('text', '')\n    result = ecc_decrypt(text, key2)\n    return Response({\"result\": result})",
+        "detail": "api.views.elliptic_view",
+        "documentation": {}
+    },
+    {
+        "label": "key1",
+        "kind": 5,
+        "importPath": "api.views.elliptic_view",
+        "description": "api.views.elliptic_view",
+        "peekOfCode": "key1 = derive_shared_key(private1, public2)\nkey2 = derive_shared_key(private2, public1)\n@api_view(['GET', 'POST'])\ndef encrypt_ecc(request):\n    data = request.data\n    text = data.get('text', '')\n    result = ecc_encrypt(text, key1)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_ecc(request):",
+        "detail": "api.views.elliptic_view",
+        "documentation": {}
+    },
+    {
+        "label": "key2",
+        "kind": 5,
+        "importPath": "api.views.elliptic_view",
+        "description": "api.views.elliptic_view",
+        "peekOfCode": "key2 = derive_shared_key(private2, public1)\n@api_view(['GET', 'POST'])\ndef encrypt_ecc(request):\n    data = request.data\n    text = data.get('text', '')\n    result = ecc_encrypt(text, key1)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_ecc(request):\n    data = request.data",
+        "detail": "api.views.elliptic_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_hill",
+        "kind": 2,
+        "importPath": "api.views.hill_view",
+        "description": "api.views.hill_view",
+        "peekOfCode": "def encrypt_hill(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = hill_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_hill(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.hill_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_hill",
+        "kind": 2,
+        "importPath": "api.views.hill_view",
+        "description": "api.views.hill_view",
+        "peekOfCode": "def decrypt_hill(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = hill_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.hill_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_myszkowski",
+        "kind": 2,
+        "importPath": "api.views.myszkowski_view",
+        "description": "api.views.myszkowski_view",
+        "peekOfCode": "def encrypt_myszkowski(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = myszkowski_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_myszkowski(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.myszkowski_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_myszkowski",
+        "kind": 2,
+        "importPath": "api.views.myszkowski_view",
+        "description": "api.views.myszkowski_view",
+        "peekOfCode": "def decrypt_myszkowski(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = myszkowski_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.myszkowski_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_otp",
+        "kind": 2,
+        "importPath": "api.views.otp_view",
+        "description": "api.views.otp_view",
+        "peekOfCode": "def encrypt_otp(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = otp_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_otp(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.otp_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_otp",
+        "kind": 2,
+        "importPath": "api.views.otp_view",
+        "description": "api.views.otp_view",
+        "peekOfCode": "def decrypt_otp(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = otp_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.otp_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_playfair",
+        "kind": 2,
+        "importPath": "api.views.password_view",
+        "description": "api.views.password_view",
+        "peekOfCode": "def encrypt_playfair(request):\n    data = request.data\n    password = data.get('text', '')\n    result = password_crack_time(password)\n    return Response({\"result\": result})",
+        "detail": "api.views.password_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_playfair",
+        "kind": 2,
+        "importPath": "api.views.playfair_view",
+        "description": "api.views.playfair_view",
+        "peekOfCode": "def encrypt_playfair(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = playfair_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_playfair(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.playfair_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_playfair",
+        "kind": 2,
+        "importPath": "api.views.playfair_view",
+        "description": "api.views.playfair_view",
+        "peekOfCode": "def decrypt_playfair(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = playfair_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.playfair_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_railfence",
+        "kind": 2,
+        "importPath": "api.views.railfence_view",
+        "description": "api.views.railfence_view",
+        "peekOfCode": "def encrypt_railfence(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = rail_fence_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_railfence(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.railfence_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_railfence",
+        "kind": 2,
+        "importPath": "api.views.railfence_view",
+        "description": "api.views.railfence_view",
+        "peekOfCode": "def decrypt_railfence(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = rail_fence_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.railfence_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_rives",
+        "kind": 2,
+        "importPath": "api.views.rives_view",
+        "description": "api.views.rives_view",
+        "peekOfCode": "def encrypt_rives(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = rc4(key, text)\n    cipher_b64 = base64.b64encode(result).decode()\n    return Response({\"result\": cipher_b64})\n@api_view(['POST'])\ndef decrypt_rives(request):\n    data = request.data",
+        "detail": "api.views.rives_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_rives",
+        "kind": 2,
+        "importPath": "api.views.rives_view",
+        "description": "api.views.rives_view",
+        "peekOfCode": "def decrypt_rives(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    cipher_bytes = base64.b64decode(text)\n    decrypted_bytes = rc4(key, cipher_bytes)\n    try:\n        plaintext = decrypted_bytes.decode('utf-8')\n    except UnicodeDecodeError:\n        plaintext = decrypted_bytes.decode('latin-1')",
+        "detail": "api.views.rives_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_route",
+        "kind": 2,
+        "importPath": "api.views.route_view",
+        "description": "api.views.route_view",
+        "peekOfCode": "def encrypt_route(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = route_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_route(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.route_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_route",
+        "kind": 2,
+        "importPath": "api.views.route_view",
+        "description": "api.views.route_view",
+        "peekOfCode": "def decrypt_route(request):\n    data = request.data\n    text = data.get('text', '')\n    key = data.get('key', '')\n    result = route_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.route_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_rsa",
+        "kind": 2,
+        "importPath": "api.views.rsa_view",
+        "description": "api.views.rsa_view",
+        "peekOfCode": "def encrypt_rsa(request):\n    data = request.data\n    text = data.get('text', '')\n    result = rsa_encrypt(text, public_key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_rsa(request):\n    data = request.data\n    text = data.get('text', '')\n    result = rsa_decrypt(text, private_key)",
+        "detail": "api.views.rsa_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_rsa",
+        "kind": 2,
+        "importPath": "api.views.rsa_view",
+        "description": "api.views.rsa_view",
+        "peekOfCode": "def decrypt_rsa(request):\n    data = request.data\n    text = data.get('text', '')\n    result = rsa_decrypt(text, private_key)\n    return Response({\"result\": result})",
+        "detail": "api.views.rsa_view",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_scytale",
+        "kind": 2,
+        "importPath": "api.views.scytale_view",
+        "description": "api.views.scytale_view",
+        "peekOfCode": "def encrypt_scytale(request):\n    data = request.data\n    text = data.get('text', '')\n    key = int(data.get('key', 0))\n    result = scytale_encrypt(text, key)\n    return Response({\"result\": result}) \n@api_view(['GET', 'POST'])\ndef decrypt_scytale(request):\n    data = request.data\n    text = data.get('text', '')",
+        "detail": "api.views.scytale_view",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_scytale",
+        "kind": 2,
+        "importPath": "api.views.scytale_view",
+        "description": "api.views.scytale_view",
+        "peekOfCode": "def decrypt_scytale(request):\n    data = request.data\n    text = data.get('text', '')\n    key = int(data.get('key', 0))\n    result = scytale_decrypt(text, key)\n    return Response({\"result\": result})",
+        "detail": "api.views.scytale_view",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('encrypt/Caesar-Cipher/', caesar_view.encrypt_caesar),\n    path('decrypt/Caesar-Cipher/', caesar_view.decrypt_caesar),\n    path('encrypt/Playfair-Cipher/', playfair_view.encrypt_playfair),\n    path('decrypt/Playfair-Cipher/', playfair_view.decrypt_playfair),\n    path('encrypt/Hill-Cipher/', hill_view.encrypt_hill),\n    path('decrypt/Hill-Cipher/', hill_view.decrypt_hill),\n    path('encrypt/OTP-Cipher/', otp_view.encrypt_otp),\n    path('decrypt/OTP-Cipher/', otp_view.decrypt_otp),\n    path('encrypt/RailFence-Cipher/', railfence_view.encrypt_railfence),",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.asgi",
+        "description": "backend.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "backend.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-x#-xhyw%+nq))+n3b&gz6o#&3gej--739y567#^$kgrm#=!h66'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['yourusername.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-x#-xhyw%+nq))+n3b&gz6o#&3gej--739y567#^$kgrm#=!h66'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['yourusername.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['yourusername.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['yourusername.pythonanywhere.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',\n    'rest_framework',\n    'api',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "ROOT_URLCONF = 'backend.urls'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'backend.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.BasicAuthentication',\n        'rest_framework.authentication.TokenAuthentication',  # or JWT",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.BasicAuthentication',\n        'rest_framework.authentication.TokenAuthentication',  # or JWT\n        # 'rest_framework.authentication.SessionAuthentication', <-- remove this if not using session auth\n    ]\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\n# Allow CSRF tokens from frontend",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\n# Allow CSRF tokens from frontend\nCSRF_TRUSTED_ORIGINS = [",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\n# Allow CSRF tokens from frontend\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\n# Allow CSRF tokens from frontend\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\nALLOWED_HOSTS = ['your-service-name.onrender.com']",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://127.0.0.1:3000\"\n]\nALLOWED_HOSTS = ['your-service-name.onrender.com']\n# Optional: If using session auth from frontend\nCORS_ALLOW_CREDENTIALS = True\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['your-service-name.onrender.com']\n# Optional: If using session auth from frontend\nCORS_ALLOW_CREDENTIALS = True\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "backend.settings",
+        "description": "backend.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.urls",
+        "description": "backend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('api.urls')),\n]",
+        "detail": "backend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.wsgi",
+        "description": "backend.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "backend.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
