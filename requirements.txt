@@ -1,0 +1,10 @@
+# Cryptography libraries
+pycryptodome==3.19.1
+cryptography==42.0.5
+
+# Testing
+pytest==7.4.0
+
+# Code style (optional)
+black==23.9.0
+flake8==6.1.0
